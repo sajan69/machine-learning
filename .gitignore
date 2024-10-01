@@ -1,1 +1,4 @@
 env/
+web_bot/chromedriver.exe
+web_bot/chromedriver-win64/
+web_bot/config.json
